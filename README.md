@@ -1,10 +1,6 @@
-# Flash-Chat
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Flash Chat App
-
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
-
-Pro: Git clone to your Xcode projects folder.
-
+# Flash-Chat(fake what's app LOL )
+Realized the chat between two uses, including register and login and all kinds of data being stored in Firebase.
+Bonus point:It is a sketchy gift for my friend, so I add the changing background function ,which you can click the pic to change the chat background.
 ## Podfile Configuration
 ```
 post_install do |installer|
@@ -17,8 +13,8 @@ end
 ```
 
 ## Finished App
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Flash%20Chat.gif)
 
 
 
-Copyright © The App Brewery
+
+Copyright © Robin
