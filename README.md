@@ -11,13 +11,12 @@ post_install do |installer|
     end
 end
 ```
-
 ## Finished App
-![Finished App](https://github.com/RobinHe0212/Flash-Chat-iOS11-master/Flash%20Chat/WechatIMG148.jpeg)
-![Finished App](https://github.com/RobinHe0212/Flash-Chat-iOS11-master/Flash%20Chat/WechatIMG149.jpeg)
-![Finished App](https://github.com/RobinHe0212/Flash-Chat-iOS11-master/Flash%20Chat/WechatIMG150.jpeg)
-![Finished App](https://github.com/RobinHe0212/Flash-Chat-iOS11-master/Flash%20Chat/WechatIMG151.jpeg)
-![Finished App](https://github.com/RobinHe0212/Flash-Chat-iOS11-master/Flash%20Chat/WechatIMG152.jpeg)
+![Finished App](https://github.com/RobinHe0212/Flash-Chat-iOS11-master/blob/master/Flash%20Chat/WechatIMG148.jpeg)
+![Finished App](https://github.com/RobinHe0212/Flash-Chat-iOS11-master/blob/master/Flash%20Chat/WechatIMG149.jpeg)
+![Finished App](https://github.com/RobinHe0212/Flash-Chat-iOS11-master/blob/master/Flash%20Chat/WechatIMG150.jpeg)
+![Finished App](https://github.com/RobinHe0212/Flash-Chat-iOS11-master/blob/master/Flash%20Chat/WechatIMG151.jpeg)
+![Finished App](https://github.com/RobinHe0212/Flash-Chat-iOS11-master/blob/master/Flash%20Chat/WechatIMG152.jpeg)
 
 
 
